@@ -41,9 +41,9 @@
   <h1>Contact</h1>
   <h2>Wanna see your project on the list above?</h2>
   <p>
-    Unfortunately I don't have an commercial e-mail, so you can contact me through <a
-      href="mailto:caue313@gmail.com"
-      target="_blank">caue313@gmail.com</a
+    Unfortunately I don't have a commercial e-mail, so you can contact me through <a
+      href="mailto:caue.ferrareto@outlook.com"
+      target="_blank">caue.ferrareto@outlook.com</a
     >
     or preferably through my Discord <span class="italic">Cauê#4623</span>. I also have a Twitter account (<a
       href="https://twitter.com/cauehsf">@cauehsf</a
